@@ -1,0 +1,71 @@
+
+	#content{
+		width: 1002px;	
+		margin: 0 auto;
+	}
+	#header{
+		height: 128px;
+		background: gray url(../images/top_bg.jpg);
+	}
+	#header li{
+		display: block;
+		width: 93px;
+		float: left;
+			line-height: 36px;
+			height: 36px;
+		font-size: 16px;
+		text-align: center;
+
+		
+	}
+
+	#header li a:hover{
+		color: red;
+		width: 99px;
+		line-height: 36px;
+		height: 36px;
+		display: block;
+		background-image: url(../images/nav_on.gif);
+		
+	}
+
+		#carousel{
+		height: 237px;
+		margin-top: 1px;
+		margin-bottom: 1px;
+		background-image: url(../images/service_banner.jpg);
+	}
+
+
+	#main{
+
+			height: 650px;
+			margin-bottom: 2px;
+			
+		}
+
+	#left{
+			width: 780px;
+		    height: 650px;
+			border: 1px solid gray; 
+			margin-right: 5px;
+			float: left;
+	}
+
+
+
+	#right{
+			width: 212px;
+		    height: 650px;
+			border: 1px solid gray; 
+			float: left;
+	}
+
+   
+
+
+
+
+
+
+
